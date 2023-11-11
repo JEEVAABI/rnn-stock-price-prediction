@@ -18,7 +18,9 @@ For this we are provided with a dataset which contains features like
     Price and
     Volume
 
-Based on the given features, develop a RNN model to predict the price of stocks in future
+Based on the given features, develop a RNN model to predict the price of stocks in future.
+## Neural Network Model
+![model](https://github.com/JEEVAABI/rnn-stock-price-prediction/assets/93427098/8f2bd38f-45f5-48c8-9a05-27e6e0bf47b8)
 
 ## DESIGN STEPS
 ### STEP 1: 
